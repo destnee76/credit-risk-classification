@@ -5,11 +5,11 @@
 The purpose of this analysis is to develop and evaluate the accuracy of a data model designed to predict the creditworthiness of potential borrowers from peer-to-peer lending services.
 
 ## Results:
-- <span style="color:blue">**Balanced Accuracy Score:**</span> 95.20%
+- **Balanced Accuracy Score:**95.2%
   - This score indicates the overall prediction accuracy of the model, considering both sensitivity (recall or true positive rate) and specificity (true negative rate). The model achieved a balanced accuracy of 95.2%.
-- <span style="color:blue">**Precision Score:**</span> 85%
+- **Precision Score:** 85%
   - This score reveals that 85% of the predicted positive outcomes were correct.
-- <span style="color:blue">**Recall Score:**</span> 91%
+- **Recall Score:**91%
   - The model exhibited 91% precision in identifying true positive values out of all positive predictions made.
 
 ## Summary:
