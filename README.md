@@ -13,7 +13,7 @@ The purpose of this analysis is to develop and evaluate the accuracy of a data m
   - The model exhibited 91% precision in identifying true positive values out of all positive predictions made.
 
 ## Summary:
-In summary, the model performed exceptionally well with high precision, recall, and accuracy scores for both classes. It demonstrated a near-perfect ability to distinguish between the two classes, with class 0 being predicted with slightly higher accuracy and precision compared to class 1.
+In summary, the model performed well with high precision, recall, and accuracy scores for both classes. It demonstrated a near-perfect ability to distinguish between the two classes, with class 0 being predicted with slightly higher accuracy and precision compared to class 1.
 
 
 ### Requirements
